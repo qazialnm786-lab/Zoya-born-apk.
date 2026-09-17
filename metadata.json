@@ -1,0 +1,6 @@
+{
+  "name": "Zoya Assistant",
+  "description": "Real-time, voice-driven AI assistant with personality, Gemini Live audio streaming, wake-word activation, and deep Android device control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
